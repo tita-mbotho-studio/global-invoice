@@ -1,0 +1,17 @@
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+coverage/
+*.iml
+.idea/
+.vscode/
+.DS_Store
+*.jks
+*.keystore
+key.properties
+.env
+# Commit pubspec.lock and generated Drift code once verified locally.
